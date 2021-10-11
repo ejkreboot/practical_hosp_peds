@@ -12,7 +12,7 @@ Rheumatologic conditions are chronic and managed by sub specialists in the outpa
 
 While one does not expect to ever hear "Code ANA Room 525" paged overhead, there are a couple of situations that may arise in patients with rheumatological diseases that require prompt intervention. 
 
-Hemophagocytic lymphohistiocytosis (HLH) arising in a patient with a rheumatologic condition is referred to as "Macrophage Activation Syndrome" (MAS), is potentially fatal, and requires prompt intervention. HLH is reviewed in the Immunology and Allergy chapter. In contrast to HLH, MAS can often be treated with steroids alone (possibly with the addition of anakinra, and any other disease modifying agents needed to control the underlying rheumatologic condition). However, patients who are very ill, or decompensating despite steroid treatment, should be transitioned to the traditional HLH-94 protocol (or a clinical trial protocol if available at your institution). The HLH-94 protocol combines etoposide and  cyclo**sporine** with intrathecal methotrexate and hydrocortisone if there are CNS symptoms. While diagnosis and treatment of HLH/MAS would be carried out with help from a rheumatologist, immunologist, and/or hematologist/oncologist, a high index of suspicion must be maintained for MAS in patients with a rheumatologic diagnosis presenting with fever, splenomegaly, CNS symptoms, and/or cytopenias. In this context, prompt acquisition of additional  laboratory evaluations (e.g. ferritin, and triglyceride levels, soluble IL2Ra/CD25 and NK cell function) and/or involvement of specialists will ensure efficient diagnosis and treatment. Note that IL2Ra/CD25 and NK cell function assays will take a while to come back, and therapy should not be delayed for deteriorating patients exhibiting other features consistent with HLH/MAS while waiting for those results.
+Hemophagocytic lymphohistiocytosis (HLH) arising in a patient with a rheumatologic condition is referred to as "Macrophage Activation Syndrome" (MAS). MAS is potentially fatal and requires prompt intervention. HLH is reviewed in the Immunology and Allergy chapter. In contrast to HLH, MAS can often be treated with steroids alone (possibly with the addition of anakinra, and any other disease modifying agents needed to control the underlying rheumatologic condition). However, patients who are very ill, or decompensating despite steroid treatment, should be transitioned to the traditional HLH-94 protocol (or a clinical trial protocol if available at your institution). The HLH-94 protocol combines etoposide and cyclo**sporine** with intrathecal methotrexate and hydrocortisone if there are CNS symptoms. While diagnosis and treatment of HLH/MAS would be carried out with help from a rheumatologist, immunologist, and/or hematologist/oncologist, a high index of suspicion must be maintained for MAS in patients with a rheumatologic diagnosis presenting with fever, splenomegaly, CNS symptoms, and/or cytopenias. In this context, prompt acquisition of additional  laboratory evaluations (e.g. ferritin, and triglyceride levels, soluble IL2Ra/CD25 and NK cell function) and/or involvement of specialists will ensure efficient diagnosis and treatment. Note that IL2Ra/CD25 and NK cell function assays will take a while to come back, and therapy should not be delayed for deteriorating patients exhibiting other features consistent with HLH/MAS while waiting for those results.
 
 Secondly, patients with rheumatologic conditions may be taking immunosuppressive agents. In such patients presenting with fever and an absolute neutrophil count <500, a blood culture should be drawn and broad spectrum antibiotics initiated within 60 minutes of presentation. Needless to say, patients with higher ANCs who are ill appearing also require prompt diagnostic and therapeutic interventions. While such patients typically present to the emergency department, this situation could arise in hospitalized patients during the course of their admission, so ongoing vigilance is indicated. These patients do not differ from any other patient with iatrogenic neutropenia and fever, however it is important to maintain awareness that this patient population may be neutropenic.
 
@@ -51,7 +51,7 @@ The purpuric rash of IgAV is the most common clinical finding, followed by arthr
 
 > :pill: **Treatment of IgA vasculitis**
 >
-> * Treatment of IgA vasculitis is supportive, with additional interventions targeting the sequelae of organ dysfunction (e.g. anti-hypertensives for hypertension in the setting of AKI, or surgical reduction of small bowel intussusception. 
+> * Treatment of IgA vasculitis is supportive, with additional interventions targeting the sequelae of organ dysfunction (e.g. anti-hypertensives for hypertension in the setting of AKI, or surgical reduction of small bowel intussusception). 
 >* NSAIDs may be used unless there is evidence of GI bleeding or renal involvement. 
 > * Steroid use is controversial, but may provide symptomatic relief for abdominal pain or arthritis.
 > * If steroids are used, **a long taper (4-8 weeks) is recommended** to prevent resurgence of symptoms.
@@ -114,7 +114,7 @@ Serum sickness and SSLR can be distinguished from Drug Reaction with Eosinophili
 > * Rash
 > * Cervical lymphadenopathy with at least one node <u>></u>1.5 cm
 
-More common, however, is the child with 5 days of fever and only 2 or 3 of the clinical criteria. Such patients may be diagnoses with incomplete Kawasaki disease if the CRP is <u>></u>3 mg/dl or the ESR is <u>></u> 40 mm/hr **and** the patient has an abnormal ECHO or <u>></u>3 supplemental laboratory as listed in the box below.
+More common, however, is the child with 5 days of fever and only 2 or 3 of the clinical criteria. Such patients may be diagnosed with incomplete Kawasaki disease if the CRP is <u>></u>3 mg/dl or the ESR is <u>></u> 40 mm/hr **and** the patient has an abnormal ECHO or <u>></u>3 supplemental laboratory criteria as listed in the box below.
 
 > **Kawasaki Disease Supplemental Laboratory Criteria**
 >
@@ -133,9 +133,7 @@ The treatment of complete and incomplete Kawasaki disease is the same: IVIG (2g/
 
 > :white_check_mark: **Aspirin may be held** for patients with active influenza or varicella infections, or known exposure, to reduce risk of Reye syndrome.
 
-Note that some patients can be identified who are high risk of IVIG failure (see box below). These patients should receive prednisone (2mg/kg, then 1 mg/kg, then 0.5mg/kg, each for 5 days) in addition to IVIG.
-
-If the patient fails to defervesce after the second dose of IVIG, there are numerous options including cyclo**sporine**, cyclophosphamide, plasmapharesis, anakinra (IL-1 inhibitor), tocilizumab (IL-6 inhibitor), or others. Such patients should be managed with the assistance of a rheumatologist or infectious disease consultant who are familiar with these agents and can help identify the ideal therapy.
+Note that some patients can be identified who are at high risk of IVIG failure (see box below). These patients should receive prednisone (2mg/kg, then 1 mg/kg, then 0.5mg/kg, each for 5 days) in addition to IVIG **as initial treatment**.
 
 > :pill: **Treatment of Kawasaki Disease**
 >
@@ -148,26 +146,28 @@ If the patient fails to defervesce after the second dose of IVIG, there are nume
 > **Salvage**
 >
 > * Repeat IVIG (2g/kg) **or**
-> * (1mg/kg BID for 5 days followed by 0.5mg/kg daily for 5 days
+> * Prednisone (1mg/kg BID for 5 days followed by 0.5mg/kg daily for 5 days)
 > * If high risk (see below), use **two** of the following: 
 >   * IVIG
 >   * Prednisone
->   * Infliximab**add** prednisone 
+>   * Infliximab
 > * If patient fails salvage therapy, consult rheumatology or infectious disease for help selecting next therapy which may include anakinra, tocilizumab, cyclo**sporine**, cyclo**phosphamide**, or plasmapharesis.
 >
 > **Post-defervescence treatment and monitoring**
 >
-> * Once the patient has been afebrile for about 48 hours, the aspirin dose may be reduced to 3-5mg/kg/day. **Some in the field recommend continuing high dose aspirin for 7-10 days before transitioning to low dose.
+> * Once the patient has been afebrile for about 48 hours, the aspirin dose may be reduced to 3-5mg/kg/day. **Some in the field recommend continuing high dose aspirin for 7-10 days before transitioning to low dose**.
 >
 > * Patients should follow up with cardiology at 4-6 weeks.
 >
 > * Aspirin may be discontinued at that point if the patient has no aneurysms (even if there is mild, or at least improving, dilation)
 
+If the patient fails to defervesce after the second dose of IVIG, there are numerous options including cyclo**sporine**, cyclophosphamide, plasmapharesis, anakinra (IL-1 inhibitor), tocilizumab (IL-6 inhibitor), or others. Such patients should be managed with the assistance of a rheumatologist or infectious disease consultant who are familiar with these agents and can help identify the ideal therapy.
+
 **Note that patients with severe disease (coronary artery z-score <u>></u> 10 or aneursyms increasing in size) failing initial therapy should receive combination therapy for salvage therapy.** Such therapy could include two of the following: IVIG, prednisone, infliximab. Again, input from a rheumatologic or infectious disease colleague would be very helpful in this situation.
 
-> :white_check_mark: **Identification of chidden at risk of IVIG failure**. Note that there are separate scoring systems for Japanese and non-Japanese children.
+> :white_check_mark: **Identification of childen at risk of IVIG failure**. Note that there are separate scoring systems for Japanese and non-Japanese children.
 >
-> For **Japanese patients**, those with <u>></u>5 points from the following list are "high risk"
+> For **Japanese patients**, those with <u>></u>5 points from the following list are "high risk":
 >
 > * Sodium ≤133 mmol/L (2 points)
 > * AST ≥100 U/L (2 points)
@@ -177,12 +177,24 @@ If the patient fails to defervesce after the second dose of IVIG, there are nume
 > * Early diagnosis, with initial treatment at or before the fourth day of illness (2 points)
 > * Age ≤12 months (1 point)
 >
-> For **non-Japanese patients**, those with <u>></u>3 points from the following list are "high risk"
+> For **non-Japanese patients**, those with <u>></u>3 points from the following list are "high risk":
 >
 > - Enlarged CAs on echocardiogram with a maximum Z-score at baseline >2.00 (2 points)
 > - Age at fever onset <6 months (1 point)
 > - Any Asian race reported (1 point)
 > - C-reactive protein >13 mg/dL (1 point)
+
+**Polyarteritis Nodosa (PAN):** PAN is far more common in adults, but can occur in children. The hallmarks of PAN are painful skin nodules accompanies by mono-neuropathies evolving into poly-neuropathy. Systemic symptoms, hypertension, and renal disease may also be present. ANCA is negative in PAN, and diagnosis is by biopsy. Treatment is steroids, with cyclo**phosphamide** pulses or other immunomodulators if needed.
+
+### Large Vessel Vasculitis ###
+
+**Takayasu Ateritis (TA):** TA features granulomas affecting the large vessels leading to decreased pressure in the aorta or other large arteries. The disease manifests as decreased blood pressure in one or more limbs, decreased pulses, hypertension, and bruits over major arteries. The vascular abnormalities can be seen on CT or MRA. As with PAN, treatment is steroids and cyclo**phosphamide** or other immunomodulators if needed. Persistent stenoses may require surgical correction.
+
+### Mixed vessel vasculitis
+
+**Behçet Disease:** Recurrent (at least three time per year) buccal mucous membrane ulcers should prompt consideration of this condition which also causes genital ulcers, arthritis, and ocular symptoms including uveitis and papilledema. (This constellation of symptoms have led to the mnemonic "can't see, can't pee, can't climb a tree".) Patients can also present with necrotic folliculitis, GI and pulmonary involvement, and erythema nodosum. Treatment is with local or systemic steroids, with possible addition of colchicine and pentoxifylline (for ulceration), or azathioprine for severe disease. 
+
+**Childhood primary angiitis of the CNS (cPACNS):** This frightening sounding condition can cause a wide spectrum of CNS related symptoms, including psychosis, headache, seizures, focal deficits, and stroke. The condition has two forms: small-vessel, and medium- and large-vessel disease. Medium- and large-vessel cPACNS will have abnormal angiography. Large-vessel disease may be accompanied by normal inflammatory markers. MRA is the imaging of choice, but leptomeningeal biopsy may be needed to diagnose small vessel disease. Treatment is with steroids and cyclophosphamide (if disease is progressive). Therapies targeting specific sequelae are also indicated (e.g. anti-coagulation for acute stroke). 
 
 ## Systemic Lupus Erythematosus (SLE)
 
