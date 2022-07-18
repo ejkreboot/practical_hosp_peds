@@ -92,5 +92,8 @@ Small animal bites (including dog and cats) may be infected by oral flora, most 
 
 Animal bites involving the face may be closed primarily if less than 24 hours old. Other animal inflicted lacerations can be closed if less than 12 hours old, although secondary intention is another option and may be preffered to minimize chance of developing anaerobic infection. Puncture wounds should not be closed, and animal bites should never be closed with glue.
 
+### Lyme disease
+
+Rule of 7
 ## References
 
