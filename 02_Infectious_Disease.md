@@ -95,5 +95,8 @@ Animal bites involving the face may be closed primarily if less than 24 hours ol
 ### Lyme disease
 
 Rule of 7
+
+### Parasitic infections
+
 ## References
 
