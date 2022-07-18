@@ -84,5 +84,13 @@ Macrolides commonly used clinically are:
 
 Azithromycin is the best tolerated and is the most commonly used member of this class (except that Erythromycin is used with some frequency not for its antibiotic effect, but its pro-motile effects in the context of gastric dysmotility).
 
+## Specific infections
+
+### Animal Bites
+
+Small animal bites (including dog and cats) may be infected by oral flora, most notably pasteurella species. Empiric therapy should be initiate if there is evidence of cellulitis, the bite involves the face or hands, or if the bite is "deep" or near deep structures.  Augmentin is the treatment of choice for empiric oral therapy. Parenteral therapy should be initiated if there are systemic signs or symptoms or concern for involvement of deep structures or rapidly progressing infection. In this case, ampicillin/sulbactam is an appropriate choice. If there is concern for allergy or MRSA, either ceftriaxone or ciprofloxacin combined with clindamyin (or metronidazole if no MRSA concern) may be used.
+
+Animal bites involving the face may be closed primarily if less than 24 hours old. Other animal inflicted lacerations can be closed if less than 12 hours old, although secondary intention is another option. Puncture wounds should not be closed, and animal bites should never be closed with glue.
+
 ## References
 
